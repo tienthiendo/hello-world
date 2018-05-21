@@ -1,1 +1,1 @@
-This is new log in master
+This is new log in master and readme_edit
